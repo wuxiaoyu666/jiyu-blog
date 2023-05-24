@@ -1,6 +1,7 @@
 export default {
   title: "极宇", //站点标题
   description: "学习随笔", //mate标签description，多用于搜索引擎抓取摘要
+  base: "/jiyu-blog/",
   themeConfig: {
     siteTitle: "极宇",
     logo: "/logo.png",
