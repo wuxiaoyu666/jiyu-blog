@@ -16,7 +16,7 @@ export default {
       },
     ],
     nav: [
-      { text: "博客", link: "/articles/组件库环境搭建" },
+      { text: "我的博客", link: "/articles/组件库环境搭建" },
     ],
     sidebar: {
     },
